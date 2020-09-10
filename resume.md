@@ -4,7 +4,7 @@ title: 简历
 subtitle: 一个平平淡淡的人
 ---
 
-<span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> 以PDF格式下载 </strong></a> </span>
+<strong>> 以PDF格式下载 </strong></a> </span>
 <br>
 
 <img src="{{ '/assets/img/baobao.jpg' id="">
