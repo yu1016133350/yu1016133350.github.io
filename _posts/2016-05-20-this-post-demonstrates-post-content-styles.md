@@ -3,7 +3,7 @@ layout: page
 title: "这篇文章演示了帖子内容样式"
 subtitle: "副标题"
 date:   2020-9-10 10:10:10 +0530
-categories: junk
+categories: 漂亮
 author: "Bart Simpson"
 meta: "美好"
 ---
