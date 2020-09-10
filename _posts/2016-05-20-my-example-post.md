@@ -3,7 +3,7 @@ layout: page
 title:  "样品"
 subtitle: "对东西的更详细的解释"
 date:   2020-9-10 10:10:10 +0530
-categories: ["一般"]
+categories: ["正言"]
 ---
 
 Eos eu docendi TRACTTOS sapientem，vix中的brute option menandri，quando vivendo ACCOMODARE te ius。它是一个结构简单、结构简单、结构简单、结构简单、结构简单、结构简单、结构简单、结构简单等特点。在尤伊斯莫德德德莱尼尊严。以前的灵丹妙药坐着，有礼貌的动物身份证，没有人会贬低。

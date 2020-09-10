@@ -3,7 +3,7 @@ layout: page
 title:  "09-09笔记"
 subtitle: "搭建个人博客"
 date:   2020-9-10 10:10:10 +0530
-categories: ["一般"]
+categories: ["正言"]
 ---
 
 #搭建个人博客

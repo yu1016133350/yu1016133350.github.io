@@ -1,11 +1,9 @@
 ---
 layout: page
-title: "这篇文章演示了帖子内容样式"
+title: "演示帖子内容样式"
 subtitle: "副标题"
 date:   2020-9-10 10:10:10 +0530
-categories: 漂亮
-author: "Bart Simpson"
-meta: "美好"
+categories: 入门
 ---
 
 Lorem ipsum悲哀地坐在阿美特，奉献给一位优秀的运动员。Fusce bibendum neque eget nunc mattis欧盟sollicitudin enim tincidunt。前庭腔隙性屈光不正，屈光不正。
