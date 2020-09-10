@@ -1,15 +1,14 @@
 # Site settings
-title: YuKui
+title: '余启龙'
 description: >
   A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability
 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://yukui.github.io" # the base hostname & protocol for your site
+url: "https://yu1016133350.github.io" # the base hostname & protocol for your site
 
 author:
   fullname: YuKui
-  github: github
-  linkedin: 
+  github: https://github.com/yu1016133350/yu1016133350.github.io.git
   email: 1016133350@qq.com
 
 
