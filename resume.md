@@ -4,7 +4,7 @@ title: 简历
 subtitle: 一个平平淡淡的人
 ---
 
-<strong>> 以PDF格式下载 </strong></a> </span>
+<span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> 以PDF格式下载 </strong></a> </span>
 <br>
 
 ### 技能
@@ -32,7 +32,7 @@ Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliq
 Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliquam facilisis eget quis massa. Duis et ultricies diam, non venenatis nisl. Maecenas sed mauris consectetur, faucibus mi ac, commodo velit. 
 
 ### 经验
-
+在校学习两年，感觉一无所获
  **学校** 
 _Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspendisse congue, enim vitae mattis pulvinar, eros lacus porttitor neque, eu sodales nibh metus nec arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;_  
 Technologies used  
