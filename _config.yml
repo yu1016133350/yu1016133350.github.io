@@ -7,7 +7,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://yu1016133350.github.io" # the base hostname & protocol for your site
 
 author:
-  fullname: YuKui
+  fullname: '余启龙'
   github: https://github.com/yu1016133350/yu1016133350.github.io.git
   email: 1016133350@qq.com
 
