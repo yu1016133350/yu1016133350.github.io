@@ -10,5 +10,5 @@ sitemap:
 
 <div id="describe-text">
 	<p>一个简单，最小的Jekyll主题，用于个人网页和博客，关注空白和可读性</p>
-	<p>分叉并使用 <strong> <a href="https://github.com/knhash/Pudhina"> 的主题</a> </strong></p>
+	<p>分叉并使用 <strong> <a href="https://github.com/knhash/Pudhina"> 储存库</a> 的主题</strong></p>
 </div>
