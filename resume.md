@@ -7,36 +7,35 @@ subtitle: 一个平平淡淡的人
 <span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> 以PDF格式下载 </strong></a> </span>
 <br>
 
+<img src="{{ '/assets/img/baobao.jpg' | prepend: site.baseurl }}" id="about-img">
+
 ### 技能
 ``` 吃喝玩乐，样样精通  ```  
 
 ### 项目
-**标题** - Description - Place <span style="float: right; ">Time span</span>  
+**标题** 
 Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.  
 
-**标题** - Description - Place <span style="float: right; ">Time span</span>  
+**标题** 
 Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.  
 
-**副标题 ** - Description - Place <span style="float: right; ">Time span</span>  
+**副标题**
 Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.  
 
 ### 教育
-
-Institute <span style="float: right; ">Duration</span>  
+  
 **课程**  
 Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliquam facilisis eget quis massa. Duis et ultricies diam, non venenatis nisl. Maecenas sed mauris consectetur, faucibus mi ac, commodo velit.  
  
-Institute <span style="float: right; ">Duration</span>  
 **课程**  
 Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliquam facilisis eget quis massa. Duis et ultricies diam, non venenatis nisl. Maecenas sed mauris consectetur, faucibus mi ac, commodo velit.  
-
-Institute <span style="float: right; ">Duration</span>  
+ 
 **课程**  
 Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliquam facilisis eget quis massa. Duis et ultricies diam, non venenatis nisl. Maecenas sed mauris consectetur, faucibus mi ac, commodo velit. 
 
 ### 经验
 
-Title - **学校** <span style="float: right; ">Duration</span>  
+ **学校** 
 _Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspendisse congue, enim vitae mattis pulvinar, eros lacus porttitor neque, eu sodales nibh metus nec arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;_  
 Technologies used  
 
