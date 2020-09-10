@@ -10,12 +10,11 @@ subtitle: 一个平平淡淡的人
 ``` 吃喝玩乐，样样精通  ```  
 
 ### 项目
-
-**标题** 
-Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.  
+大尚页面，在卓哥的带领下完成了个人博客
 
 ### 教育
-  
+  在校大学专科技术书院
+
 **课程**  
 java、sql等多项课程
 
@@ -23,6 +22,7 @@ java、sql等多项课程
 在校学习两年，感觉一无所获
 曾copy过小米商城
 完成学校分配的大尚网页
+
  **学校** 
  私立华联学院
 
