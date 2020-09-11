@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "09-010笔记"
+title:  "09-10笔记"
 subtitle: "客户端向服务端发送请求的过程"
 date:   2020-9-10 10:10:20 +0530
 categories: ["正言"]
